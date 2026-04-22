@@ -1,4 +1,4 @@
-# DigiVora Matrix Explorer v1.0 🚀
+## DigiVora Matrix Explorer v1.0 🚀
 Advanced Array Manipulation & Analysis Tool
 
 <div align="center">
